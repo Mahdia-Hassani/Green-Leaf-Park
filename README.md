@@ -1,16 +1,20 @@
-Green Leaf Park
-My first web design project, built at Code to Inspire with guidance from Wajiha Niazi.
-Live site:[https://mahdia-hassani.github.io/Green-Leaf-Park/]
-About
-A simple, clean, and responsive website to practice core web design skills:
-Page structure & layout
-Typography & colors
-Responsive design
-Technologies
-HTML5
-CSS3
-Learnings
-Building a complete web page from scratch
-Applying design principles
-Paying attention to details
-Excited to continue learning and improving!
+# Green Leaf Park
+
+A nature‑inspired landing page created using HTML and CSS.  
+This project highlights a calming park theme with visual layout and responsive design elements.
+
+---
+
+## Live Demo
+
+Check the live version here:  
+👉 https://mahdia-hassani.github.io/Green-Leaf-Park/
+
+---
+
+##  Technologies Used
+
+- HTML5  
+- CSS3  
+- Responsive layout  
+- Custom typography and color theme
